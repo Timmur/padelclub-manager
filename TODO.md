@@ -2,6 +2,17 @@
 
 ## Planificación de Desarrollo - Estructura Playtomic Manager
 
+### FASE 0: Configuración Inicial (Completado)
+
+- [x] **[2025-07-18]** Crear repositorio GitHub - **Dificultad: FÁCIL**
+  - Configurar repositorio padelclub-manager
+  - Crear README.md profesional
+  - Configurar .gitignore
+  - Subir documentación inicial (PRD, PRP, TODO)
+  - Archivos: README.md, .gitignore, documentación completa
+  - Tiempo estimado: 2 horas
+  - Dependencias: Ninguna
+
 ### FASE 1: Arquitectura Base (Semana 1-2)
 
 - [x] **[2025-01-20]** Configurar estructura de proyecto base - **Dificultad: MEDIO**
