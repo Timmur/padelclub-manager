@@ -15,16 +15,16 @@
 
 ### FASE 1: Arquitectura Base (Semana 1-2)
 
-- [x] **[2025-01-20]** Configurar estructura de proyecto base - **Dificultad: MEDIO**
+- [ ] **[2025-01-20]** Configurar estructura de proyecto base - **Dificultad: MEDIO**
   - Configurar Next.js 14 con TypeScript
   - Implementar sistema de autenticación
   - Configurar base de datos (Prisma + PostgreSQL)
-  - [x] Configurar Docker para desarrollo local
+  - [ ] Configurar Docker para desarrollo local
   - Archivos: package.json, prisma/schema.prisma, lib/auth.ts, docker-compose.yml, Dockerfile
   - Tiempo estimado: 8-10 horas
   - Dependencias: Ninguna
 
- [x] **[2025-01-22]** Crear layout principal del dashboard - **Dificultad: MEDIO** [2025-07-18]
+ [ ] **[2025-01-22]** Crear layout principal del dashboard - **Dificultad: MEDIO** [2025-07-18]
   - Implementar sidebar con navegación estilo Playtomic
   - Crear header con usuario y notificaciones
   - Configurar routing para todas las secciones
@@ -34,7 +34,7 @@
 
 ### FASE 2: Módulo Métricas (Semana 3)
 
- [x] **[2025-01-27]** Implementar dashboard de métricas - **Dificultad: DIFÍCIL** [2025-07-18]
+ [ ] **[2025-01-27]** Implementar dashboard de métricas - **Dificultad: DIFÍCIL** [2025-07-18]
   - Crear KPIs principales (partidos, ingresos, usuarios, nuevos usuarios)
   - Implementar gráficos de barras para partidos por día
   - Configurar filtros de tiempo (últimas 2 semanas, etc.)
@@ -42,7 +42,7 @@
   - Tiempo estimado: 12-15 horas
   - Dependencias: Layout principal
 
- [x] **[2025-01-29]** Integrar analytics en tiempo real - **Dificultad: EXPERTO** [2025-07-18]
+ [ ] **[2025-01-29]** Integrar analytics en tiempo real - **Dificultad: EXPERTO** [2025-07-18]
   - Configurar tracking de eventos
   - Implementar cálculos de métricas automáticos
   - Crear sistema de alertas para métricas críticas
